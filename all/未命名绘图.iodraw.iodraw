@@ -13,7 +13,7 @@
         <mxCell id="mB7y3gMrqjTyHD2TG7VS-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mB7y3gMrqjTyHD2TG7VS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mB7y3gMrqjTyHD2TG7VS-4" value="task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
